@@ -1,0 +1,8 @@
+C:\Users\SW3-I3-81T-3Y\source\repos\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\SW3-I3-81T-3Y\source\repos\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\SW3-I3-81T-3Y\source\repos\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\SW3-I3-81T-3Y\source\repos\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\SW3-I3-81T-3Y\source\repos\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\SW3-I3-81T-3Y\source\repos\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\SW3-I3-81T-3Y\source\repos\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\SW3-I3-81T-3Y\source\repos\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
